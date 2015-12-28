@@ -1,0 +1,62 @@
+
+
+.banner {
+	background: url("../img/banner.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 400px;
+	max-width: 100%;
+
+
+}
+
+.search{
+	position: absolute;
+	width: 500px;
+	height: 200px;
+	margin-top: 100px;
+	margin-left: 400px;
+	border: 1px solid red;
+}
+
+.input-group{
+	margin : 10px;
+	margin-left: 40px;
+}
+
+.form-control{
+	margin-top: 10px;
+}
+
+#sub{
+	margin-left: 150px;
+	margin-top: 20px;
+	width: 100px;
+}
+
+.midsection{
+	min-height: 200px;
+	border: 2px solid red;
+	overflow: hidden;
+}
+
+.box:first-child {
+	margin-left: 100px;
+}
+
+.box {
+	float: left;
+	margin-top: 20px;
+	text-align: center;
+	width: 200px;
+	height: 150px;
+	color: green;
+	margin-left: 50px;
+	border: 1px solid blue;
+	background-color: #FE8181;
+}
+
+.box h3{
+	padding: 5px;
+	margin-top: 30px;
+}
